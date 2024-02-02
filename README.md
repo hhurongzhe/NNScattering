@@ -1,4 +1,4 @@
-# NNScattering
+# NNScattering(will be updated this year)
 
 Nucleon-Nucleon Scattering Calculator, written in C++.
 
